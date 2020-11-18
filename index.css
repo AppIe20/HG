@@ -3,3 +3,13 @@
          background-color:  aqua;
     
 }
+#site-box{
+width:750;
+}
+#a-box{}
+#b-box {
+    float: left;
+    width: 500px;
+}
+
+#c-box {}
