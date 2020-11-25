@@ -29,7 +29,7 @@ body {
   background-color: green;
   width: 30%; /* 幅(％指定) */
   height: 3000px;
-  float: left;
+  float: right;
 }
  
 #layout04 {
