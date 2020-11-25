@@ -13,21 +13,21 @@ body {
 #layout01 {
   background-color: blue;
   width: 20%; /* 幅(％指定) */
-  height: 1000px;
+  height: 2000px;
   float: left;
 }
  
 #layout02 {
   background-color: red;
   width: 50%; /* 幅(％指定) */
-  height: 1000px;
+  height: 2000px;
   float: left;
 }
  
 #layout03 {
   background-color: green;
   width: 20%; /* 幅(％指定) */
-  height: 1000px;
+  height: 2000px;
   float: left;
 }
  
