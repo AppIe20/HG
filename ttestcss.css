@@ -20,7 +20,7 @@ body {
  
 #layout02 {
   background-color: red;
-  width: 60%; /* 幅(％指定) */
+  width: 50%; /* 幅(％指定) */
   height: 1000px;
   float: left;
 }
