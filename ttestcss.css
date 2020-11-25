@@ -6,36 +6,34 @@ body {
   font-size: 50px;
 }
  
+#layout00 {
+  width: 600px; /* 幅(px指定) */
+  margin: 0 auto;  /* 余白の大きさ 中央寄せ(センタリング)) */
+}
+ 
 #layout01 {
   background-color: blue;
-  width: 600px;
+  width: 100%; /* 幅(％指定) */
   height: 200px;
 }
  
 #layout02 {
   background-color: red;
-  width: 200px;
-  height: 800px;
+  width: 50%; /* 幅(％指定) */
+  height: 200px;
   float: left;
 }
  
 #layout03 {
   background-color: green;
-  width: 200px;
-  height: 800px;
-  float: left;
-}
-
-#layout04 {
-  background-color: brown;
-  width: 200px;
-  height: 800px;
+  width: 50%; /* 幅(％指定) */
+  height: 200px;
   float: left;
 }
  
-#layout05 {
+#layout04 {
   background-color: yellow;
-  width: 600px;
+  width: 100%; /* 幅(％指定) */
   height: 200px;
   clear: both;
 }
