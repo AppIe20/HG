@@ -14,21 +14,21 @@ body {
  
 #layout02 {
   background-color: red;
-  width: 400px;
+  width: 200px;
   height: 800px;
   float: left;
 }
  
 #layout03 {
   background-color: green;
-  width: 300px;
+  width: 200px;
   height: 800px;
   float: left;
 }
 
 #layout04 {
   background-color: brown;
-  width: 300px;
+  width: 200px;
   height: 800px;
   float: left;
 }
