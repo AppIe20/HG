@@ -13,7 +13,7 @@ body {
  
 #layout01 {
   background-color: blue;
-  width: 50%; /* 幅(％指定) */
+  width: 20%; /* 幅(％指定) */
   height: 1000px;
   float: left;
 }
@@ -27,7 +27,7 @@ body {
  
 #layout03 {
   background-color: green;
-  width: 50%; /* 幅(％指定) */
+  width: 20%; /* 幅(％指定) */
   height: 1000px;
   float: left;
 }
