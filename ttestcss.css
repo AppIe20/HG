@@ -13,21 +13,22 @@ body {
  
 #layout01 {
   background-color: blue;
-  width: 30%; /* 幅(％指定) */
+  width: 10%; /* 幅(％指定) */
   height: 3000px;
   float: left;
 }
  
 #layout02 {
   background-color: red;
- width: 60%; /* 幅(％指定) 
+ width: 80%; /* 幅(％指定) */
   height: 3000px;
   float: left;
+  font-size: 25px;
 }
  
 #layout03 {
   background-color: green;
-  width: 30%; /* 幅(％指定) */
+  width: 10%; /* 幅(％指定) */
   height: 3000px;
   float: right;
 }
@@ -37,4 +38,8 @@ body {
   width: 100%; /* 幅(％指定) */
   height: 200px;
   clear: both;
+}
+
+figure {
+  margin: 0;
 }
